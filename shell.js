@@ -1,3 +1,4 @@
+/*方法说明：希尔排序*/
 function shellSort(arr) {
     var len = arr.length,
         temp,
