@@ -1,3 +1,4 @@
+/*方法说明：选择排序*/
 function selectionSort(arr) {
     var len = arr.length;
     var minIndex, temp;
