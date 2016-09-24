@@ -1,3 +1,4 @@
+/*方法说明：计数排序*/
 function countingSort(array) {
     var len = array.length,
         B = [],
