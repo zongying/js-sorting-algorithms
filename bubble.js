@@ -1,3 +1,4 @@
+/*方法说明：冒泡排序*/
 function bubbleSort(arr) {
     var low = 0;
     var high= arr.length-1; //设置变量的初始值
