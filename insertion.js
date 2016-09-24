@@ -1,3 +1,4 @@
+/*方法说明：插入排序*/
 function insertionSort(array) {
     if (Object.prototype.toString.call(array).slice(8, -1) === 'Array') {
         console.time('插入排序耗时：');
